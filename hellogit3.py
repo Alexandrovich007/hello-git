@@ -1,1 +1,1 @@
-print("version 1.30")
+print("Hello Git cambios incorrectos")
