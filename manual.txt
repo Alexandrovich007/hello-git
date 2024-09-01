@@ -1,3 +1,4 @@
 Nuevos cambios desde Login
 usamos comando git merge --no-ff
+paracticandop nuevos comandos 
 
