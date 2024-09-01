@@ -1,3 +1,4 @@
 Ruslan
 usamos comando git merge --no-ff
+paracticandop nuevos comandos 
 
