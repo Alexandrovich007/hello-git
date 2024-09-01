@@ -1,1 +1,1 @@
-print("Hello Git cambios incorrectos")
+print("Hello Git correción de cambios")
