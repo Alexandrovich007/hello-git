@@ -1,2 +1,3 @@
-Nuevos cambios desde  Main
+Nuevos cambios desde Login
+usamos comando git merge --no-ff
 
