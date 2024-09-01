@@ -1,7 +1,7 @@
 print ("Hello Git with changes")
 print("Login: modifican el login desde la rama login")
 print("Con borrado incluido")
-var = 1
+var = 5
 var2 = 2
 
 
