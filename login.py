@@ -5,4 +5,4 @@ var = 1
 if var == 1:
     print("Esto es un cambio")
 else:
-  
+    print("Este es otro cambio")
